@@ -12,7 +12,7 @@ function Navbar() {
               alt="College Logo"
               className="h-10 w-10 rounded-md"
             />
-            <span className="text-white text-2xl font-bold">
+            <span className="text-white md:text-2xl text-xl font-bold">
               Sri Sathya Sai College for Women, Bhopal
             </span>
           </div>
