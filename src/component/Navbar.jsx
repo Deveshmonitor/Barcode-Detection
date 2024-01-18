@@ -12,7 +12,7 @@ function Navbar() {
               alt="College Logo"
               className="h-10 w-10 rounded-md"
             />
-            <span className="text-white text-lg font-bold">
+            <span className="text-white text-2xl font-bold">
               Sri Sathya Sai College for Women, Bhopal
             </span>
           </div>
@@ -21,7 +21,7 @@ function Navbar() {
           <div>
             <a
               href="#"
-              className="text-white hover:text-gray-300 transition duration-300"
+              className="text-white hover:text-gray-300 transition duration-300 md:block hidden"
             >
               Library Management System
             </a>
